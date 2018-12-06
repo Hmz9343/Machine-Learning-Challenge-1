@@ -18,7 +18,10 @@ A better way is to adapt the questions according to the current (estimated) abil
 
 [data](/images/image2.png)
 
+![data](/images/image2.png)
+
 <br/>
+
 * as per above records need to assign difficulty level (1-100) for qvery question_id .
 
 ## Why should you participate?
