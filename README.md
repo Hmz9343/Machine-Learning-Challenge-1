@@ -39,6 +39,6 @@ A better way is to adapt the questions according to the current (estimated) abil
 * College students (if you understand basics of predictive modelling)
 
 ## PRIZE
-* 2000 INR 
+* 2000 INR for best Solution.
 
 ## Need to submit github repository link at prabhat@aptence.com 
