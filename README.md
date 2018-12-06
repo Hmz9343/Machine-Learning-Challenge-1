@@ -16,7 +16,7 @@ A better way is to adapt the questions according to the current (estimated) abil
 
 # CHALLENGE
 
-[data](/images/image2.png)
+[data](/data/data_Machine-Learning-Challenge-1.csv)
 
 ![data](/images/image2.png)
 
