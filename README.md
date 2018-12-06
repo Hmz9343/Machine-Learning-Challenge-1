@@ -22,7 +22,8 @@ A better way is to adapt the questions according to the current (estimated) abil
 
 <br/>
 
-* as per above records need to assign difficulty level (1-100) for qvery question_id .
+* As per above records need to assign difficulty level (1-100) for qvery question_id .
+* Need to use python 2.7
 
 ## Why should you participate?
 
