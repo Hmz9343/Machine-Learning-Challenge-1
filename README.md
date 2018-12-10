@@ -38,7 +38,7 @@ A better way is to adapt the questions according to the current (estimated) abil
 * Data Science/Machine Learning enthusiasts
 * College students (if you understand basics of predictive modelling)
 
-## PRIZE
-* 2000 INR for best Solution.
+## Internship / Fulltime Job
+* There will be an opportunity to work with aptence . 
 
 ## Need to submit github repository link at prabhat@aptence.com 
